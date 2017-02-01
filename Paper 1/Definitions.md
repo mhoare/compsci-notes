@@ -10,3 +10,5 @@ Useful definitions
 <br/>The subroutine is running using local variables.
 <br />
 <br />When a function is called, the current position is saved in the stack as a saved frame pointer. |
+| Enqueue | Add an element to a queue | |
+| Dequeue | Remove an element from a queue | |
