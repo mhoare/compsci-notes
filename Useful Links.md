@@ -6,3 +6,4 @@
 | Explaination of Public Key Encryption | <https://blog.vrypan.net/2013/08/28/public-key-cryptography-for-non-geeks/> |
 | Videos for algorithms | <https://www.youtube.com/playlist?list=PLAwxTw4SYaPk0SXKi0ARnhK5zhZcA4yDU> |
 | Videos for networks | <https://www.youtube.com/channel/UCaNX_EGXBgJYyrsRrziKnDQ> |
+| Repository of Haskell Examples | <https://gitlab.com/mhoare-examples/haskell-examples> |
