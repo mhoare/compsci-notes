@@ -15,3 +15,5 @@ Useful definitions
 | Bandwidth | A range of frequencies within a given band used for transmission of a signal. | Bit rate is directly proportionate to bandwidth. |
 | Latency | Time delay between the moment something is initiated and the moment its effect begins. | |
 | Protocol | A set of rules about the way devices communicate. Needed to ensure successful transmission between different computers. | |
+| Router | | |
+| Gateway | | |
