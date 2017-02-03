@@ -1,5 +1,4 @@
 # Useful Links
-
 | Link Description | Link URL |
 | :--------------- | :------- |
 | AQA CS Specification 7516/7517 | <http://filestore.aqa.org.uk/resources/computing/specifications/AQA-7516-7517-SP-2015.PDF> |
