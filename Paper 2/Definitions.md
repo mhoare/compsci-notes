@@ -17,3 +17,9 @@ Useful definitions
 | Protocol | A set of rules about the way devices communicate. Needed to ensure successful transmission between different computers. | |
 | Router | | |
 | Gateway | | |
+| API | An *application programming interface* is a set of functions or procedures that allow the creation of applications which access the data or features of another service. | |
+| HTTP | HTTP is a set of rules for transferring data and files on the World Wide Web. | Stands for *Hypertext Transfer Protocol* |
+| REST | Rest is used as a design methodology for networked applications. It allows simple HTTP methods to be used in place of complex mechanisms such as SOAP. Since there is a HTTP method which maps to each CRUD method, REST can use only HTTP to achieve full data manipulation. | |
+| URL | A URL is an address of a resource on the world wide web. | Stands for *Uniform Resource Locator* |
+| URI | A URI is a series of characters used to identify a resource. | Stands for *Uniform Resource Identifier* |
+| Web Socket | The websocket protocol is a set of rules that creates a persistent connection between two computers on a network to enable real-time collaboration. It establishes a full-duplex socket connection between a web-browser and the server over TCP. | |
