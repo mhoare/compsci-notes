@@ -23,3 +23,4 @@ Useful definitions
 | URL | A URL is an address of a resource on the world wide web. | Stands for *Uniform Resource Locator* |
 | URI | A URI is a series of characters used to identify a resource. | Stands for *Uniform Resource Identifier* |
 | Web Socket | The websocket protocol is a set of rules that creates a persistent connection between two computers on a network to enable real-time collaboration. It establishes a full-duplex socket connection between a web-browser and the server over TCP. | |
+| Analysis | The first stage of system development, where the problem is identified, researched and alternative solutions proposed. | |
