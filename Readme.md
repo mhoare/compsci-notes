@@ -14,4 +14,4 @@ This repo holds notes from AQA Computer Science A Level.
 	* [Abstract data types and data structures](Paper\ 1/4.2\ Fundamentals\ of\ data\ structures/4.2.1\ Data\ structures\ and\ abstract\ data\ types/4.2.1.4\ Abstract\ data\ types-data\ structures.md)
 	* [Queues](Paper\ 1/4.2\ Fundamentals\ of\ data\ structures/4.2.2\ Queues/4.2.2.1\ Queues.md)
 	* [Stacks](Paper\ 1/4.2\ Fundamentals\ of\ data\ structures/4.2.3\ Stacks/4.2.3.1\ Stacks.md)
-	* [Graphs](Paper\ 1/4.2\ Fundamentals\ of\ data\ structures/4.2.3\ Graphs/4.2.4.1\ Graphs.md)
+	* [Graphs](Paper\ 1/4.2\ Fundamentals\ of\ data\ structures/4.2.4\ Graphs/4.2.4.1\ Graphs.md)
