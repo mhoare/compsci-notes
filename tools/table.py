@@ -28,7 +28,7 @@ def generate_table(paths_dict):
     for directory, files in paths_dict.items():
         output += "\n### " + directory + "\n"
         for f in files:
-            output += "* ["+list(f.keys())[0]+"](" +list(f.values())[0]+ ")\n" 
+            output += "* ["+list(f.keys())[0]+"](" +list(f.values())[0].replace(" ", "\ ")+ ")\n" 
 
     return output
 
@@ -60,11 +60,11 @@ def main():
     for index, line in enumerate(list(l)):
         if between[0] in line:
             for new_line in reversed(table):
-                l.insert(index+1, new_line)
-    file.close()
+                l.insert(index+1, new_line + "\n")
+
     file = open(output_file, 'w')
     for line in l:
-        file.write(line+"\n")
+        file.write(line)
     file.close()
 
 
