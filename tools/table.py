@@ -64,8 +64,7 @@ def main():
     file.close()
     file = open(output_file, 'w')
     for line in l:
-        if line is not "\n":
-            file.write(line+"\n")
+        file.write(line+"\n")
     file.close()
 
 
