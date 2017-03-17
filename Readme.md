@@ -154,3 +154,6 @@ This repo holds notes from AQA Computer Science A Level.
 * [Useful Links.md](Useful Links.md)
 <!--/TABLE-->
 
+## Useful Info
+
+To build the table of contents and insert: `make`
