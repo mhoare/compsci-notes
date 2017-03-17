@@ -54,7 +54,7 @@ This repo holds notes from AQA Computer Science A Level.
 
 
 ### Paper 1/
-* [Definitions.md](Paper 1/Definitions.md)
+* [Definitions.md]("Paper 1/Definitions.md")
 * [4.1.1.1 Data Types.md](Paper 1/4.1 Fundamentals of Programming/4.1.1 Programming/4.1.1.1 Data Types.md)
 * [4.1.2.3 Object-oriented programming.md](Paper 1/4.1 Fundamentals of Programming/4.1.2 Programming paradigms/4.1.2.3 Object-oriented programming.md)
 * [4.2.1.1 Data structures.md](Paper 1/4.2 Fundamentals of data structures/4.2.1 Data structures and abstract data types/4.2.1.1 Data structures.md)
