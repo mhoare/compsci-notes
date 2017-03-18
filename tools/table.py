@@ -28,7 +28,7 @@ def generate_table(paths_dict):
     for directory, files in paths_dict.items():
         output += "\n### " + directory + "\n"
         for f in files:
-            output += "* ["+list(f.keys())[0]+"](" +list(f.values())[0].replace(" ", "\ ")+ ")\n" 
+            output += "* ["+list(f.keys())[0]+"](" +list(f.values())[0].replace(" ", "%20")+ ")\n" 
 
     return output
 
