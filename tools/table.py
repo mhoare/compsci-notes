@@ -43,9 +43,10 @@ def main():
                 file_name = file_name[0:-3]
                 paths[first_dir].append({file_name: filename})
             else:
-                while not filename[0].isalpha(): filename = filename[1:]
-                filename = filename[0:-3]
-                paths['Miscellaneous'].append({filename: filename})
+                file_name = filename
+                while not file_name[0].isalpha(): file_name = file_name[1:]
+                file_name = filename[0:-3]
+                paths['Miscellaneous'].append({file_name: filename})
     paths = {k:v for k,v in paths.items() if len(v) > 0}
     output_file = sys.argv[1] 
     between = ['<!--TABLE-->', '<!--/TABLE-->']

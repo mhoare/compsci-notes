@@ -122,8 +122,8 @@ This repo holds notes from AQA Computer Science A Level.
 * [Port forwarding](Paper%202/4.9%20Fundamentals%20of%20communication%20and%20networking/4.9.4%20The%20Transmission%20Control%20Protocol-Internet%20Protocol%20(TCP-IP)%20protocol/4.9.4.9%20Port%20forwarding.md)
 
 ### Miscellaneous
-* [Readme](Readme)
-* [Useful Links](Useful%20Links)
+* [Readme](Readme.md)
+* [Useful Links](Useful%20Links.md)
 <!--/TABLE-->
 
 ## Useful Info
