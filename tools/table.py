@@ -39,8 +39,12 @@ def main():
             if (filename.find('/') > 0):
                 first_dir = re.search("([^/]*)\/", filename).group(0)
                 file_name = path_leaf(filename)
+                while not file_name[0].isalpha(): file_name = file_name[1:]
+                file_name = file_name[0:-3]
                 paths[first_dir].append({file_name: filename})
             else:
+                while not filename[0].isalpha(): filename = filename[1:]
+                filename = filename[0:-3]
                 paths['Miscellaneous'].append({filename: filename})
     paths = {k:v for k,v in paths.items() if len(v) > 0}
     output_file = sys.argv[1] 
