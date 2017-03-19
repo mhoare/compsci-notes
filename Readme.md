@@ -1,4 +1,4 @@
-# Computer Science Notes
+# Computer Science Notes :notebook:
 This repo holds notes from AQA Computer Science A Level.
 ## Table of contents
 <!--TABLE-->
