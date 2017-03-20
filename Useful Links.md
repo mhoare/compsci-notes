@@ -12,3 +12,4 @@
 | Normalisation example walk through | <https://www.youtube.com/watch?v=yYioLVWgh64> |
 | Programming Information | <http://www.multiwingspan.co.uk/> |
 | Regex Tester | <http://regex101.com> |
+| Old Spec Languages Info | [PDF](Paper\ 1/4.4\ Theory\ of\ computation/4.4.3\ Context-free\ languages/resources/Old\ Spec\ Languages.pdf) |
