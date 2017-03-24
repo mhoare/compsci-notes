@@ -35,6 +35,7 @@ This repo holds notes from AQA Computer Science A Level.
 * [Classification of algorithmic problems](Paper%201/4.4%20Theory%20of%20computation/4.4.4%20Classification%20of%20algorithms/4.4.4.5%20Classification%20of%20algorithmic%20problems.md)
 * [Computable and non-computable problems](Paper%201/4.4%20Theory%20of%20computation/4.4.4%20Classification%20of%20algorithms/4.4.4.6%20Computable%20and%20non-computable%20problems.md)
 * [Halting problem](Paper%201/4.4%20Theory%20of%20computation/4.4.4%20Classification%20of%20algorithms/4.4.4.7%20Halting%20problem.md)
+* [Turing machine](Paper%201/4.4%20Theory%20of%20computation/4.4.5%20A%20model%20of%20computation/4.4.5.1%20Turing%20machine.md)
 
 ### Paper 2/
 * [Definitions](Paper%202/Definitions.md)
