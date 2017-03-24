@@ -13,3 +13,5 @@
 | Programming Information | <http://www.multiwingspan.co.uk/> |
 | Regex Tester | <http://regex101.com> |
 | Old Spec Languages Info | [PDF](Paper%201/4.4%20Theory%20of%20computation/4.4.3%20Context-free%20languages/resources/Old%20Spec%20Languages.pdf) |
+| Video for Turing Machines | <https://www.youtube.com/watch?v=dNRDvLACg5Q> |
+| Video for Halting Problem | <https://www.youtube.com/watch?v=macM_MtS_w4> |
