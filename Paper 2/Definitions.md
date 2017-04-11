@@ -24,3 +24,4 @@ Useful definitions
 | URI | A URI is a series of characters used to identify a resource. | Stands for *Uniform Resource Identifier* |
 | Web Socket | The websocket protocol is a set of rules that creates a persistent connection between two computers on a network to enable real-time collaboration. It establishes a full-duplex socket connection between a web-browser and the server over TCP. | |
 | Analysis | The first stage of system development, where the problem is identified, researched and alternative solutions proposed. | |
+| Hash Function | A function H which when applied to a key k, generates a hash value H(k) (of a range smaller than the domain of values of k)| |
