@@ -16,3 +16,4 @@
 | Video for Turing Machines | <https://www.youtube.com/watch?v=dNRDvLACg5Q> |
 | Video for Halting Problem | <https://www.youtube.com/watch?v=macM_MtS_w4> |
 | Hashing | <http://filestore.aqa.org.uk/subjects/AQA-2510-W-TRB-COMP3HASH.PDF> |
+| Checksum Video | <https://www.youtube.com/watch?v=RFOGDY2e0mQ> |
