@@ -25,3 +25,13 @@ Useful definitions
 | Web Socket | The websocket protocol is a set of rules that creates a persistent connection between two computers on a network to enable real-time collaboration. It establishes a full-duplex socket connection between a web-browser and the server over TCP. | |
 | Analysis | The first stage of system development, where the problem is identified, researched and alternative solutions proposed. | |
 | Hash Function | A function H which when applied to a key k, generates a hash value H(k) (of a range smaller than the domain of values of k)| |
+| Copyright | Protects material such as literature, art, music, films and recordings.| |
+| Design Right | Protects how something **looks**| | 
+| Patent | Protects how an invention works or what it does | |
+| Trademark | Protects the name or logo used to identify a business or product | |
+| Cracking | Illegally breaking into a computer system | |
+| Hacking | Illegally breaking into a computer system; programming in an unstructured way| |
+| Personal Data | Data relating to a **living** individual who can be identified from it | |
+| Data Subject | An individual who is the subject of personal data | |
+| Data Controller | Someone who determines why and how personal data is processed| |
+| Data Processor | Someone who processes data on behalf of the data controller| |
