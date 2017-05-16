@@ -26,6 +26,7 @@ This repo holds notes from AQA Computer Science A Level.
 * [Bubble sort](Paper%201/4.3%20Fundamentals%20of%20algorithms/4.3.5%20Sorting%20algorithms/4.3.5.1%20Bubble%20sort.md)
 * [Merge sort](Paper%201/4.3%20Fundamentals%20of%20algorithms/4.3.5%20Sorting%20algorithms/4.3.5.2%20Merge%20sort.md)
 * [Finite state machines (FSMs) with and without output](Paper%201/4.4%20Theory%20of%20computation/4.4.2%20Regular%20languages/4.4.2.1%20Finite%20state%20machines%20(FSMs)%20with%20and%20without%20output.md)
+* [Maths for regular expressions](Paper%201/4.4%20Theory%20of%20computation/4.4.2%20Regular%20languages/4.4.2.2%20Maths%20for%20regular%20expressions.md)
 * [Regular expressions](Paper%201/4.4%20Theory%20of%20computation/4.4.2%20Regular%20languages/4.4.2.3%20Regular%20expressions.md)
 * [Backus-Naur Form (BNF)-syntax diagrams](Paper%201/4.4%20Theory%20of%20computation/4.4.3%20Context-free%20languages/4.4.3.1%20Backus-Naur%20Form%20(BNF)-syntax%20diagrams.md)
 * [Comparing algorithms](Paper%201/4.4%20Theory%20of%20computation/4.4.4%20Classification%20of%20algorithms/4.4.4.1%20Comparing%20algorithms.md)
