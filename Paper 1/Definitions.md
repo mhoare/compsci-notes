@@ -9,4 +9,4 @@ Useful definitions
 | Call stack | A special type of stack used to store information about active subroutines and functions. | The function is called and data passed to it. The return address is placed on the stack so that when the function is finished, it will look to the return address so it knows where to return to.<br/>The subroutine is running using local variables.<br />When a function is called, the current position is saved in the stack as a saved frame pointer. |
 | Enqueue | Add an element to a queue | |
 | Dequeue | Remove an element from a queue | |
-| Regular Languages | A regular langauge is any langauge which can be accepted by and FSM. | |
+| Regular Languages | A regular language is any language which can be accepted by and FSM. | |
